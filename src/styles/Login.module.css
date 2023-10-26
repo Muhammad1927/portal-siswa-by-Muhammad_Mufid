@@ -1,0 +1,59 @@
+.textWhite {
+  color: #2b3674;
+  font-size: 36;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+  flex-direction: column;
+}
+
+.dc {
+    display: flex;
+    flex-direction: column;
+}
+
+.p1 {
+  font-size: 16px;
+  color: #a3aed0;
+}
+
+.h4_email {
+  color: #2f313a;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.inputemail {
+  width: 410px;
+  height: 50px;
+  border-radius: 15px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.btn {
+  width: 430px;
+  height: 54px;
+  background-color: #4318ff;
+  color: white;
+  border-radius: 15px;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+.p2 {
+    margin-top: 50px;
+    text-align: left;
+}
+.bp{
+    color: #4318FF;
+}
