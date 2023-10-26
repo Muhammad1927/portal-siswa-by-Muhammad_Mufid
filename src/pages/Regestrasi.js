@@ -1,7 +1,7 @@
 import styles from "@/styles/Login.module.css";
 import { dmSans } from "@/styles/fonts";
 
-export default function loginTemplate() {
+export default function Regestrasi() {
   return (
     <div className={styles.container}>
       <div className={styles.dc}>
